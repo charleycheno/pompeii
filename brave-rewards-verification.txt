@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: romantimes.ml
+Token: 4df946d00e7e699b6c16aec8de3b03758f0628e10ebaff8de08033b9b2aa94f1
